@@ -1,0 +1,9 @@
+/.cache
+/.vscode
+/build
+/myenv
+/analysis
+/TranspositionTableDataLogs
+
+/BishopMagicNumbers
+/RookMagicNumbers
