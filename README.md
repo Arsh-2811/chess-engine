@@ -51,7 +51,7 @@ Configure the `config.yml` file to set up your bot's parameters.
 ## Acknowledgements
 
 This project builds upon foundational work from:
-- **Deepov** by Romain Goussault ([GitHub](https://github.com/RomainGoussault/Deepov)) - Neural network evaluation architecture reference.
+- **Deepov** by Romain Goussault ([GitHub](https://github.com/RomainGoussault/Deepov)) - Bitboard representation and Magic numbers
 - Stockfish Development Team - Search algorithm optimizations.
 - Python-Chess Maintainers - UCI protocol validation suite.
 - Lichess Bot Developers - API integration patterns.
