@@ -7,3 +7,7 @@
 
 /BishopMagicNumbers
 /RookMagicNumbers
+/lichess-bot
+Dockerfile
+config.yml
+requirements.txt
