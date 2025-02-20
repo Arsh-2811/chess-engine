@@ -31,13 +31,13 @@ A high-performance chess engine implemented in C++ with advanced search algorith
 
 To install the chess engine, clone the repository and build it:
 
+```sh
 git clone https://github.com/Arsh-2811/chess-engine
 cd chess-engine
 mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release -DENABLE_SMP=ON ..
 make -j$(nproc)
-
-text
+```
 
 ## Lichess Integration
 
