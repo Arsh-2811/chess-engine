@@ -28,8 +28,7 @@ int main(){
     // uci.init();
     // uci.loop();
     
-    //CLI based Full Gameplay
-
+    // CLI based Full Gameplay mode
     int ttSize = 512;
     globalTT.init_TT_size(ttSize);
     Pawn::initPawnTable();
